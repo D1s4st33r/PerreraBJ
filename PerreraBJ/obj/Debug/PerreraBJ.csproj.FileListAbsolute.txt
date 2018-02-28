@@ -1,0 +1,46 @@
+c:\users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\bin\Debug\PerreraBJ.exe.config
+c:\users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\bin\Debug\PerreraBJ.exe
+c:\users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\bin\Debug\PerreraBJ.pdb
+c:\users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.csprojResolveAssemblyReference.cache
+c:\users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.menu.resources
+c:\users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Properties.Resources.resources
+c:\users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.csproj.GenerateResource.Cache
+c:\users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.exe
+c:\users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.pdb
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\bin\Debug\MySql.Data.dll
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\bin\Debug\Google.Protobuf.dll
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\bin\Debug\MySql.Data.xml
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_dueño.resources
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Dueños.resources
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Mascotas.resources
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_mascota.resources
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Aplicar_vacuna.resources
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Vacuna.resources
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_cartilla.resources
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_rescate.resources
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.RyA.resources
+C:\Users\sku1045426\documents\visual studio 2015\Projects\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_adopcion.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\bin\Debug\PerreraBJ.exe.config
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.exe
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.pdb
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\bin\Debug\PerreraBJ.exe
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\bin\Debug\PerreraBJ.pdb
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\bin\Debug\Google.Protobuf.dll
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\bin\Debug\MySql.Data.xml
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.csprojResolveAssemblyReference.cache
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Aplicar_vacuna.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_adopcion.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_cartilla.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_dueño.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_mascota.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Crear_rescate.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Dueños.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Mascotas.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.menu.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Properties.Resources.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.RyA.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.Vacuna.resources
+C:\Users\maste\Documents\Tareas_uni\PerreraBJ\PerreraBJ\obj\Debug\PerreraBJ.csproj.GenerateResource.Cache
